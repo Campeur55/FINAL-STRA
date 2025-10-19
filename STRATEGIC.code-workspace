@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "FORLOOP/PROJET-STR/.bolt"
+		},
+		{
+			"path": "FORLOOP/PROJET-STR/node_modules"
+		},
+		{
+			"path": "FORLOOP/PROJET-STR/public"
+		},
+		{
+			"path": "FORLOOP/PROJET-STR/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".bolt"
+	}
+}
